@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @besharamcode
 - 🧑‍💻 A MERN Stack Developer (React Native + ElectronJs)
-- 👀 I’m interested in learning new technology
+- 👀 Interested in learning new technology
 - 📫 How to reach me instagram - @besharamcode
 - 🔗 https://besharamcode.netlify.app
 <!---
