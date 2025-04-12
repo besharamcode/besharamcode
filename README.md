@@ -1,8 +1,38 @@
-- 👋 Hi, I’m @besharamcode
-- 🧑‍💻 A MERN Stack Developer (React Native + ElectronJs)
-- 👀 Interested in learning new technology
-- 📫 How to reach me instagram - @besharamcode
-- 🔗 https://besharamcode.in
+<h1 align="center">Hey there! 👋 I'm @besharamcode</h1>
+<p align="center">
+  🧑‍💻 MERN Stack Developer | 📱 React Native | 🖥️ ElectronJS | ✍️ Blogger<br/>
+  🚀 Passionate about building full-stack apps & sharing knowledge
+</p>
+
+---
+
+### 💻 About Me
+
+- 🔭 I’m currently working on **React Native apps** and **ElectronJS desktop applications**
+- 🌱 Exploring **Next.js**, **TypeScript**, and **AI integrations**
+- 🧠 Love learning and sharing new **web development** trends
+- 📸 Active on Instagram: [@besharamcode](https://instagram.com/besharamcode)
+- ✍️ Writing tech blogs and tutorials at: [besharamcode.in](https://besharamcode.in)
+
+---
+
+### 🔗 Let's Connect!
+
+- 🌐 Website: [https://besharamcode.in](https://besharamcode.in)
+- 📸 Instagram: [@besharamcode](https://instagram.com/besharamcode)
+- 🐱 GitHub: [@besharamcode](https://github.com/besharamcode)
+
+---
+
+### 🛠️ Tech Stack
+
+```bash
+💡 Languages: JavaScript, TypeScript, HTML, CSS
+⚙️ Frameworks: ReactJS, React Native, NodeJS, Express
+🛢️ Databases: MongoDB, Firebase, SQLite
+🖥️ Desktop: ElectronJS
+✍️ Tools: VS Code, Git, Postman, Figma
+
 <!---
 besharamcode/besharamcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
