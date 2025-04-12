@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on **React Native apps** and **ElectronJS desktop applications**
+- 🔭 I’m currently working on **MERN APPLICATION** and **Learning ElectronJS and React Native**
 - 🌱 Exploring **Next.js**, **TypeScript**, and **AI integrations**
 - 🧠 Love learning and sharing new **web development** trends
 - 📸 Active on Instagram: [@besharamcode](https://instagram.com/besharamcode)
